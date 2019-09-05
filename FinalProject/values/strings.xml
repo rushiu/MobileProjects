@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cheer Up App!</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="choose_mood">Choose Your Mood</string>
+    <string name="mood_tracker">Mood Tracker</string>
+    <string name="mood_tracker_select_day">Select Day</string>
+    <string name="quote_title">Your Recommended Quotes:</string>
+
+    <string name="mood1">Upset</string>
+    <string name="mood2">Unmotivated</string>
+    <string name="mood3">Stressed</string>
+    <string name="mood4">Gloomy</string>
+    <string name="mood5">Tense</string>
+    <string name="mood6">Irritated</string>
+    <string name="mood7">Tired</string>
+    <string name="mood8">Grief</string>
+
+    <string name="day1">1</string>
+    <string name="day2">2</string>
+    <string name="day3">3</string>
+    <string name="day4">4</string>
+    <string name="day5">5</string>
+    <string name="day6">6</string>
+    <string name="day7">7</string>
+    <string name="day8">8</string>
+    <string name="day9">9</string>
+    <string name="day10">10</string>
+
+
+    <string name="day1m"></string>
+    <string name="day2m"></string>
+    <string name="day3m"></string>
+    <string name="day4m"></string>
+    <string name="day5m"></string>
+    <string name="day6m"></string>
+    <string name="day7m"></string>
+    <string name="day8m"></string>
+    <string name="day9m"></string>
+    <string name="day10m"></string>
+
+
+</resources>
